@@ -1,2 +1,2 @@
-# AutoDiCoT_prompt
+# Automatic Directed CoT (AutoDiCoT)
 AutoDiCoT implementation.
