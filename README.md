@@ -1,2 +1,4 @@
 # Automatic Directed CoT (AutoDiCoT)
-AutoDiCoT implementation.
+Automatic Directed Chain-of-Thought (AutoDiCoT) is a framework designed to enhance the reasoning capabilities of large language models (LLMs) by automating the process of generating and refining intermediate reasoning steps, or "chains of thought," to solve complex problems. It builds on the Chain-of-Thought (CoT) prompting technique, which encourages LLMs to break down problems into sequential steps to improve accuracy and interpretability. AutoDiCoT takes this further by introducing automation and directionality to make the process more efficient and effective, particularly for tasks requiring logical, mathematical, or multi-step reasoning.
+## Reference
+S. Schulhoff, M. Ilie, N. Balepur, K. Kahadze, A. Liu, C. Si, Y. Li, A. Gupta, H. Han, S. Schulhoff, P. Dulepet, S. Vidyadhara, D. Ki, S. Agrawal, C. Pham, G. Kroiz, F. Li, H. Tao, A. Srivastava, H. Da Costa, S. Gupta, M. L. Rogers, I. Goncearenco, G. Sarli, I. Galynker, D. Peskoff, M. Carpuat, J. White, S. Anadkat, A. Hoyle, and P. Resnik, "The Prompt Report: A Systematic Survey of Prompting Techniques," arXiv:2406.06608v1 [cs.CL], Jun. 2024.
